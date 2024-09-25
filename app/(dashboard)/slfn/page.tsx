@@ -4,7 +4,7 @@ import Hero from "@/app/_components/hero";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "萨勒芬妮",
+  title: "萨勒芬妮的世界",
 };
 
 const Slfn = () => {
