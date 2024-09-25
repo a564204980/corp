@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 const Slfn = () => {
   return (
     <div>
-      <Hero imgUrl={Slfnimg} altTxt="萨勒芬妮" content="萨勒芬妮" />
+      <Hero imgUrl={Slfnimg} altTxt="萨勒芬妮" content="萨勒芬妮的世界" />
     </div>
   );
 };
